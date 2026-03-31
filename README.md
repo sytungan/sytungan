@@ -9,7 +9,7 @@
 [<img align="left" width="20px" src="https://simpleicons.org/icons/hackerrank.svg" />][hackerrank]
 <br>
 
-I'm **An** Sy Tung - aka **Ankun**, a passionate full-stack developer 👨‍💻👊
+I'm **An** Sy Tung - aka **Noah**, a passionate full-stack developer 👨‍💻👊
 
 - 🌱 I’m currently studying Master's degree **Computer Science**
 
